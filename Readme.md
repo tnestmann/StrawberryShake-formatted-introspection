@@ -1,0 +1,1 @@
+Repo used as minimal graphQL server for bug reproduction.
